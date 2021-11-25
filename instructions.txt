@@ -1,0 +1,40 @@
+Inlämningsuppgift 2 - Informationssida om tillgänglighet (IG/G)
+
+Din uppgift är att skapa en informationssida om tillgänglighet. Använd er utav bilder, text och/eller illustrationer för att uppnå detta.
+
+Innehåll - Sidan ska tydligt förmedla nedanstående information.
+
+Förklara vad tillgänglighet betyder. KLAR
+
+Förklara vad tillgänglighet på webben innebär. KLAR
+
+Ge minst fem konkreta exempel på hur man skapar tillgänglig design på en webbplats. KLAR 
+
+Ge minst fem konkreta exempel på vad man som frontend-utvecklare kan tänka på för att skapa tillgänglig kod. KLAR
+
+Minst tre länkar till vidareläsning om tillgänglighet. KLAR
+
+Tekniska krav - Sidan ska kodas på följande sätt:
+
+Sidan ska vara responsiv (bilder, text och element ska se bra ut i mobilstorlek och desktop) och CSS:en ska använda sig utav en mobile-first-approach. KLAR
+
+Använd dig utav semantisk HTML. Sidan ska ha en <header> och <footer>-tagg. KLAR
+Din HTML ska valideras. https://validator.w3.org/
+Använd minst två externa typsnitt (fonter) (som du hämtar från t.ex Google Fonts) på din sida. KLAR
+Använd minst två fallback fonts. KLAR
+
+Övrigt
+Du får använda dig utav ren CSS eller Sass.
+
+Senast inlämning 15/12
+
+
+https://webbriktlinjer.se/files/2017/06/resizeproblem.png
+
+https://webbriktlinjer.se/principer/tillganglig/ 
+https://www.visma.se/blogg/webbtillganglighet-vad-ar-det-och-varfor-ar-det-viktigt/
+https://www.metamatrix.se/vad-vi-gor/optimering/tillganglighet-pa-webben/
+
+Google Lighthouse: https://developers.google.com/web/tools/lighthouse
+
+Axe DevTools: https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd
